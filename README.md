@@ -1,1 +1,1 @@
-# Odin_Projects
+This repository is where I store my Odin Projects
